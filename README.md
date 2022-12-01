@@ -1,4 +1,4 @@
-C#/TypeScript/Powershellあたりで欲しいツールを自作してます。
+C#/TypeScript/Powershellあたりが好きです。欲しいツールを自作してます。
 
 自己満多め
 
