@@ -1,6 +1,8 @@
-TypeScript/Go/C#/Powershellあたりが好きです。欲しいツールを自作してます。
+残業は年600時間！週30時間はミーティング！
+実務はリーダー給与はメンバー、コスパ単価の20代フルスタックエンジニアです！
 
-自己満多め
+AIが単純労働を効率化してくれるおかげで、高度な（嫌な）仕事の濃度上がってて草
+本当は会議なんてやめてTypeScript書きたい
 
 <!---
 HoppingGanon/HoppingGanon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
